@@ -1,8 +1,8 @@
-# U-BOOT Description
+# U-BOOT
 
-These u-boot can be used for `Armbian` and `OpenWrt` systems, such as [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian), [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt), etc. They will be automatically downloaded and integrated during the production of related systems.
+These `u-boot` can be used for `Armbian` and `OpenWrt` systems, such as [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian), [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt), etc. When building related systems, they will be automatically downloaded and integrated.
 
-这些 u-boot 可以用于 `Armbian` 和 `OpenWrt` 系统，例如 [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian), [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) 等。在制作相关系统时会自动下载集成。
+这些 `u-boot` 可以用于 `Armbian` 和 `OpenWrt` 系统，例如 [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian), [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) 等。在制作相关系统时会自动下载集成。
 
 ## Links
 
