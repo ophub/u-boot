@@ -6,6 +6,8 @@ These `u-boot` binaries are intended for use with `Armbian`, `OpenWrt`, and `FnN
 
 ## Links
 
+- [U-Boot v2025.10 source](https://github.com/u-boot/u-boot/tree/v2025.10) (`generic-rk3568_defconfig`, Torder R10D)
+
 - [unifreq/openwrt_packit](https://github.com/unifreq/openwrt_packit)
 - [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian)
 - [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt)
